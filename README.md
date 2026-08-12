@@ -4,8 +4,9 @@ console.log("Olá Mundo!");
 
 # Anderson Alcântara | Andy
 
-Graduado em Análise e Desenvolvimento de Sistemas. (Senac) </br>
-Estudante de Desenvolvimento Web. </br>
+Pós-Graduando em Desenvolvimento Web. (Senac SP) </br>
+Graduado em Análise e Desenvolvimento de Sistemas. (Senac SP) </br>
+Focado em Desenvolvimento Web. </br>
 - *A foto do meu perfil, é uma pixel art, feita 100% por mim.*
 
 ## Objetivos
@@ -16,20 +17,30 @@ Estudante de Desenvolvimento Web. </br>
 
 ## Tecnologias que estou estudando - (My Stack)
 
-| Tecnologia | Estudo |
-| :--- | ---: |
-| HTML | Não Iniciado |
-| CSS | Não Iniciado |
-| JavaScript | Iniciado |
-| Node.js | Iniciado |
-| MySQL | Não Iniciado |
+| Tecnologia | Estudo | Experiência |
+| :--- | :---: | ---: |
+| HTML | Iniciado | Iniciante |
+| CSS & Bootstrap | Iniciado | Iniciante |
+| JavaScript | Iniciado | Iniciante |
+| Node.js | Iniciado | Iniciante |
+| MySQL & MariaDB | Não Iniciado | --- |
 
 *"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*
 
+## Ambiente de Desenvolvimento - (DevTools)
+
+| Editor de Texto & IDE | Controle de Versão | Sistema Operacional
+| :--- | :---: | ---: |
+| Visual Studio Code | Git | GNU Linux - Debian
+| IntelliJ IDE | --- | --- |
+| Android Studio | --- | --- |
+
+*"Usuário de Windows - 25 anos"*
+
 ## Contato
-- Linkedin: <ins>~~...*"Em construção!..."*~~.</ins>
-- E-Mail: <ins>~~...*"Em construção!..."*~~.</ins>
-- WhatsApp: <ins>~~*(XX) XXXX-XXXX*~~</ins>
+- Linkedin: *"Em construção..."*
+- E-Mail: *"Em breve..."*
+- WhatsApp: *"@andersonalcantara-ti"* (Somente assunto profissional ou acadêmico)
 
 ---
 
@@ -42,4 +53,7 @@ Estudante de Desenvolvimento Web. </br>
 ![Static Badge](https://img.shields.io/badge/Bootstrap-purple?style=plastic&logo=bootstrap&logoColor=violet&logoSize=auto)
 
 > [!IMPORTANT]
-> "Conforme vou avançando em meus estudos, irei atualizando o perfil"
+> "Conforme avanço em meus estudos, atualizo o perfil"
+
+---
+*"Perfil construído 100% em Markdown"*
