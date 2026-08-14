@@ -1,5 +1,8 @@
 ```JavaScript
-console.log("Olá Mundo!");
+function helloWorld(){
+return "Olá Mundo!";
+};
+console.log(helloWorld());
 ```
 
 # Anderson Alcântara | Andy
@@ -14,6 +17,13 @@ Focado em Desenvolvimento Web. </br>
 &nbsp;&nbsp;&nbsp;&nbsp; Olá, me chamo Anderson. Meu objetivo profissional é ser programador fullstack em Desenvolvimento Web. Para não me perder ao longo do caminho, elaborei um planejamento sólido de estudos que estou seguindo a risca. Com resiliência e perseverança, seguirei minha jornada rumo ao meu desejo de me tornar um desenvolvedor. </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para conhecer mais sobre mim, não deixe de visitar meu site neste link: <ins>~~...*"Site em construção!..."*~~.</ins>
+
+<!--
+Objetivo: Desenvolvedor e Programador Fullstack! </br>
+Área de atuação: Desenvolvimento Web! </br>
+Interesses: Desenvolvimento Web, Cibersegurança (Hacker), Desenvolvimento de Games (Windows, Android, Linux) </br>
+Desenvolvimento de Games para Mega Drive (Sega Genesis).
+-->
 
 ## Tecnologias que estou estudando - (My Stack)
 
@@ -32,14 +42,13 @@ Focado em Desenvolvimento Web. </br>
 | Editor de Texto & IDE | Controle de Versão | Sistema Operacional
 | :--- | :---: | ---: |
 | Visual Studio Code | Git | GNU Linux - Debian
-| IntelliJ IDE | --- | --- |
-| Android Studio | --- | --- |
+| IntelliJ IDE | Git | GNU Linux - Debian |
+| Android Studio | Git | GNU Linux - Debian |
 
 *"Usuário de Windows - 25 anos"*
 
 ## Contato
-- Linkedin: *"Em construção..."*
-- E-Mail: *"Em breve..."*
+- E-Mail: *"andersonalcantara.ti@gmail.com"* (Assunto profissional ou acadêmico)
 - WhatsApp: *"@andersonalcantara-ti"* (Somente assunto profissional ou acadêmico)
 
 ---
