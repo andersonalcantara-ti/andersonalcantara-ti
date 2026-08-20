@@ -35,23 +35,20 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Node.js | Iniciado | Iniciante |
 | TypeScript | --- | --- |
 
----
+*"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*<br>
+*"Dart | Flutter | Java"*
+...
 
 | Banco de Dados | Estudo | Experiência |
 | :--- | :---: | ---: |
 | MySQL | --- | --- |
 | MariaDB | --- | --- |
-
-*"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*<br>
-*"Dart | Flutter | Java"*
-
 ---
 
 | Biblioteca | Estudo | Experiência |
 | :--- | :---: | ---: |
 | JQuery | --- | --- |
 | React | --- | --- |
-
 ---
 
 | Framework | Estudo | Experiência |
@@ -61,7 +58,7 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Bootstrap | Iniciado | Iniciante |
 | Tailwind CSS | --- | --- |
 
-<!-->
+<!--
 **Legendas**
 Status: Iniciado | ---
 Experiência: Iniciante | Junior | Pleno | Sênior
