@@ -35,18 +35,24 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Node.js | Iniciado | Iniciante |
 | TypeScript | --- | --- |
 
+---
+
 | Banco de Dados | Estudo | Experiência |
 | :--- | :---: | ---: |
 | MySQL | --- | --- |
 | MariaDB | --- | --- |
 
-*"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*
+*"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*<br>
 *"Dart | Flutter | Java"*
+
+---
 
 | Biblioteca | Estudo | Experiência |
 | :--- | :---: | ---: |
 | JQuery | --- | --- |
 | React | --- | --- |
+
+---
 
 | Framework | Estudo | Experiência |
 | :--- | :---: | ---: |
@@ -69,8 +75,8 @@ Experiência: Iniciante | Junior | Pleno | Sênior
 | IntelliJ IDE | Git | GNU Linux - Debian |
 | Android Studio | Git | GNU Linux - Debian |
 
-*"Usuário de Windows - 25 anos"*
-*"Usuário de GNU Linux - 1 Mês"*
+*"Usuário de Windows - 25 anos"*<br>
+*"Usuário de GNU Linux - 1 Mês"*<br>
 *"IntelliJ e Android Studio não têm um desempenho bom em minha máquina,<br>
 então uso predominantemente o Visual Studio Code"*
 
