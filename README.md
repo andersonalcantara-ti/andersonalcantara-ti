@@ -55,6 +55,8 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Bootstrap | Iniciado | Iniciante |
 | Tailwind CSS | --- | --- |
 
+*"Minha Stack Base: HTML, CSS, JavaScript, NodeJS e MariaDB"*
+
 <!--
 **Legendas**
 Status: Iniciado | ---
