@@ -37,19 +37,16 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 
 *"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*<br>
 *"Dart | Flutter | Java"*
-...
 
 | Banco de Dados | Estudo | Experiência |
 | :--- | :---: | ---: |
 | MySQL | --- | --- |
 | MariaDB | --- | --- |
----
 
 | Biblioteca | Estudo | Experiência |
 | :--- | :---: | ---: |
 | JQuery | --- | --- |
 | React | --- | --- |
----
 
 | Framework | Estudo | Experiência |
 | :--- | :---: | ---: |
@@ -81,7 +78,6 @@ então uso predominantemente o Visual Studio Code"*
 - E-Mail: *"andersonalcantara.ti@gmail.com" (Assunto profissional ou acadêmico)*
 - WhatsApp: *"@andersonalcantara-ti" (Somente assunto profissional ou acadêmico)*
 - LinkedIn: *"Meu LinkedIn está com problemas no momento"*
-
 ---
 
 ![Static Badge](https://img.shields.io/badge/HTML-purple?style=plastic&logo=html5&logoColor=violet&logoSize=auto)
@@ -94,6 +90,6 @@ então uso predominantemente o Visual Studio Code"*
 
 > [!IMPORTANT]
 > "Conforme avanço em meus estudos, atualizo o perfil"
-
 ---
+
 *"Perfil construído 100% em Markdown"*
