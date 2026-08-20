@@ -20,7 +20,7 @@ Focado em Desenvolvimento Web. </br>
 
 <!--
 Objetivo: Desenvolvedor e Programador Fullstack! </br>
-Área de atuação: Desenvolvimento Web! </br>
+Área de Especialização: Desenvolvimento Web! </br>
 Interesses: Desenvolvimento Web, Cibersegurança (Hacker), Desenvolvimento de Games (Windows, Android, Linux) </br>
 Desenvolvimento de Games para Mega Drive (Sega Genesis).
 -->
@@ -30,12 +30,36 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Tecnologia | Estudo | Experiência |
 | :--- | :---: | ---: |
 | HTML | Iniciado | Iniciante |
-| CSS & Bootstrap | Iniciado | Iniciante |
+| CSS | Iniciado | Iniciante |
 | JavaScript | Iniciado | Iniciante |
 | Node.js | Iniciado | Iniciante |
-| MySQL & MariaDB | Não Iniciado | --- |
+| TypeScript | --- | --- |
+
+| Banco de Dados | Estudo | Experiência |
+| :--- | :---: | ---: |
+| MySQL | --- | --- |
+| MariaDB | --- | --- |
 
 *"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*
+*"Dart | Flutter | Java"*
+
+| Biblioteca | Estudo | Experiência |
+| :--- | :---: | ---: |
+| JQuery | --- | --- |
+| React | --- | --- |
+
+| Framework | Estudo | Experiência |
+| :--- | :---: | ---: |
+| Next.js | --- | --- |
+| React Native | --- | --- |
+| Bootstrap | Iniciado | Iniciante |
+| Tailwind CSS | --- | --- |
+
+<!-->
+**Legendas**
+Status: Iniciado | ---
+Experiência: Iniciante | Junior | Pleno | Sênior
+-->
 
 ## Ambiente de Desenvolvimento - (DevTools)
 
@@ -46,10 +70,14 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | Android Studio | Git | GNU Linux - Debian |
 
 *"Usuário de Windows - 25 anos"*
+*"Usuário de GNU Linux - 1 Mês"*
+*"IntelliJ e Android Studio não têm um desempenho bom em minha máquina,<br>
+então uso predominantemente o Visual Studio Code"*
 
 ## Contato
-- E-Mail: *"andersonalcantara.ti@gmail.com"* (Assunto profissional ou acadêmico)
-- WhatsApp: *"@andersonalcantara-ti"* (Somente assunto profissional ou acadêmico)
+- E-Mail: *"andersonalcantara.ti@gmail.com" (Assunto profissional ou acadêmico)*
+- WhatsApp: *"@andersonalcantara-ti" (Somente assunto profissional ou acadêmico)*
+- LinkedIn: *"Meu LinkedIn está com problemas no momento"*
 
 ---
 
