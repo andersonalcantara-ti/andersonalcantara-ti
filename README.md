@@ -38,7 +38,7 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 *"Dart | Flutter | Java"*
 -->
 
-## Tecnologias que estou estudando - (My Stack)
+## Tecnologias que estou estudando - (My Stack)<!--Minhas Tecnologias-->
 
 | Tecnologia | Estudo | Experiência |
 | :--- | :---: | ---: |
