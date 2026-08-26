@@ -47,7 +47,6 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | :--- | :---: | ---: |
 | JQuery | --- | --- |
 | React | --- | --- |
-
 | Framework | Estudo | Experiência |
 | :--- | :---: | ---: |
 | Next.js | --- | --- |
