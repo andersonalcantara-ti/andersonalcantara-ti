@@ -23,6 +23,19 @@ Objetivo: Desenvolvedor e Programador Fullstack! </br>
 Área de Especialização: Desenvolvimento Web! </br>
 Interesses: Desenvolvimento Web, Cibersegurança (Hacker), Desenvolvimento de Games (Windows, Android, Linux) </br>
 Desenvolvimento de Games para Mega Drive (Sega Genesis).
+
+## Tecnologias que estou estudando - (My Stack - Base)
+
+| Tecnologia | Estudo | Experiência |
+| :--- | :---: | ---: |
+| HTML | Iniciado | Iniciante |
+| CSS | Iniciado | Iniciante |
+| JavaScript | Iniciado | Iniciante |
+| Node.js | Iniciado | Iniciante |
+| MariaDB | --- | --- |
+
+*"Após dominar essas tecnologias, irei seguir para TypeScript, Tailwind CSS..."*<br>
+*"Dart | Flutter | Java"*
 -->
 
 ## Tecnologias que estou estudando - (My Stack)
@@ -47,7 +60,8 @@ Desenvolvimento de Games para Mega Drive (Sega Genesis).
 | :--- | :---: | ---: |
 | JQuery | --- | --- |
 | React | --- | --- |
-| Framework | Estudo | Experiência |
+
+| **Framework** | Estudo | Experiência |
 | :--- | :---: | ---: |
 | Next.js | --- | --- |
 | React Native | --- | --- |
